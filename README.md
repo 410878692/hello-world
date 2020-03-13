@@ -1,2 +1,3 @@
 # hello-world
-just a test
+只是测试
+很高兴认识你，接下来让我们一起度过愉快时光吧
